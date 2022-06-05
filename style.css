@@ -1,13 +1,18 @@
-.nav{
-    display: flex;
-    justify-content: space-evenly;
-    width: 100%;
-    background-color: whitesmoke;
-    position: fixed;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+h3{
+    display:inline-flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    text-decoration: none;
+    position: sticky;
     top: 0;
-    z-index: 20;
-    margin-left: 10px;
+    color: white;
+    
 }
-nav{
-    background-image: url(./images/office.jpeg);
+.hearder{
+    background-image: url(./images/img.jpg);
+    background-size:cover;
+    height: 150vh;
 }
