@@ -22,3 +22,9 @@ h1{
     margin-left: 150px;
     font-size: 60px;
 }
+
+h2{
+    height: auto;
+    width: auto;
+    margin-left: 180px;
+}
